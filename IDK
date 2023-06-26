@@ -17,7 +17,7 @@
 /* CONFIG */
 :root {
 --title: "Tems Discord";
---background: url("https://i.ytimg.com/vi/o5RaM8MxEL4/maxresdefault.jpg");
+--background: url("https://images3.alphacoders.com/131/1314645.jpg");
 --font: "Cuprum";
 --time: 10s;
 --Online: rgb(0 255 136);
